@@ -8,5 +8,9 @@ public class GitTesting {
 		System.out.println("This is my first branch!");
 		//Now the merged branch is improved further
 		System.out.println("This is the merged branch.");
+		boolean test = true;
+		if (test) {
+			System.out.println("Hello again!");
+		}
 	}
 }
