@@ -6,5 +6,7 @@ public class GitTesting {
 		System.out.println("Hello Git, my darling!");
 		//Hey it's obviously working!
 		System.out.println("This is my first branch!");
+		//Now the merged branch is improved further
+		System.out.println("This is the merged branch.");
 	}
 }
