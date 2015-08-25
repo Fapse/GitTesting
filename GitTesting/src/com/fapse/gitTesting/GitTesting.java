@@ -7,5 +7,4 @@ public class GitTesting {
 		//Hey it's obviously working!
 		System.out.println("This is my first branch!");
 	}
-
 }
