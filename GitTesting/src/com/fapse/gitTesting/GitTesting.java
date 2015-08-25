@@ -6,5 +6,4 @@ public class GitTesting {
 		System.out.println("Hello Git, my darling!");
 		//Hey it's obviously working!
 	}
-
 }
