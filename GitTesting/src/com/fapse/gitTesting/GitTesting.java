@@ -13,6 +13,8 @@ public class GitTesting {
 		boolean test = true;
 		if (test) {
 			System.out.println("Hello again!");
+		} else {
+			System.out.println("Test not true!");
 		}
 		//more comments...
 		//new night, new comment!
