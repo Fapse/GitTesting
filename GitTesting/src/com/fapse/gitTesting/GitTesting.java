@@ -15,5 +15,6 @@ public class GitTesting {
 			System.out.println("Hello again!");
 		}
 		//more comments...
+		//new night, new comment!
 	}
 }
