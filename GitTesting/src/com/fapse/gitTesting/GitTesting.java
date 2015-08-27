@@ -20,5 +20,17 @@ public class GitTesting {
 		//new night, new comment!
 		System.out.println("New day, new hope!");
 		//A comment added on GitHub.com!
+		//Here comes the new switch-statement:
+		String weekday = "Friday";
+		switch(weekday) {
+		case "Monday":
+			System.out.println("Hey, it's monday!");
+			break;
+		case "Friday":
+			System.out.println("TGIF!");
+			break;
+		default:
+			System.out.println("Whatever!");		
+		}
 	}
 }
