@@ -32,5 +32,11 @@ public class GitTesting {
 		default:
 			System.out.println("Whatever!");		
 		}
+		//Finally, this is beginning to make sense!
+		//Now, the really hard do-while demo code:
+		int n = 1;
+		do {
+			System.out.println("Yipee, no. " + n++);
+		} while (n <= 5);
 	}
 }
