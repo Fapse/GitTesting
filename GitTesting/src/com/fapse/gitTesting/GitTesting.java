@@ -19,5 +19,6 @@ public class GitTesting {
 		//more comments...
 		//new night, new comment!
 		System.out.println("New day, new hope!");
+		//A comment added on GitHub.com!
 	}
 }
